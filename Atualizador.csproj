@@ -12,4 +12,10 @@
     <Content Include="Atualizador.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="versao.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
